@@ -1,8 +1,8 @@
 <?php
 /*
-public - the property or method can be accessed from everywhere. This is default
-protected - the property or method can be accessed within the class and by classes derived from that class
-private - the property or method can ONLY be accessed within the class
+público: se puede acceder a la propiedad o al método desde cualquier lugar. esto es por defecto
+protegido: se puede acceder a la propiedad o método dentro de la clase y por clases derivadas de esa clase
+privado: SÓLO se puede acceder a la propiedad o al método dentro de la clase
 */
 
 class Fruit {
