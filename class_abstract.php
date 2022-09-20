@@ -1,4 +1,9 @@
 <?php
+/*
+Las clases abstractas son clases que no se instancian y sólo pueden ser heredadas, trasladando así un funcionamiento obligatorio a clases hijas. 
+Mejoran la calidad del código y ayudan a reducir la cantidad de código duplicado.
+Las clases abstractas pueden extenderse unas a otras, así como extender clases normales.
+*/
 
 abstract class CocheAbstract {
 
